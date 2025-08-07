@@ -1,4 +1,4 @@
-# SMAI Assignment 2 – MLP, GMM, PCA, AE & VAE from Scratch
+# MLP, GMM, PCA, AE & VAE from Scratch
 
 ## 📌 Overview
 
